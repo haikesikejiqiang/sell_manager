@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+.el-pagination {
+  margin-top: 20px;
+}
+#nprogress .bar {
+  background: #1890ff !important;
+}
